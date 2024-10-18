@@ -1,0 +1,101 @@
+body{
+	min-width:300px ;
+	max-width: 500px;
+ margin:0 auto;
+    font-family: tomahan;
+    padding-bottom: 5px;
+    background-image: url(https://www.hepworthlegal.com/wp-content/uploads/2016/10/What-is-a-Traditional-Family-Blog.jpg)
+    
+  }
+  
+  h1{
+    font-size: 25;
+    text-align: center;
+    color: rgb(17, 129, 129);
+   
+  }
+  .description{ 
+    font-size: 13;
+    text-align: center;
+  }
+  .disclaimer{
+    font-size: 12;
+    text-align: center;
+    margin-top: -25;
+    padding-bottom: 20;
+    background: rgba(219, 215, 215, 0.9);
+  
+  }
+  .profilefile{
+    width: 170;
+    float: right;
+    font-size: 12;
+    height:50;
+    display: block;
+    border: none
+  }
+    
+  .contactinfo{
+    display: block;
+    width: 250;
+    }
+    
+  .town{
+      display: block;
+      padding-top: 10;
+    }
+  .feedback{
+    display: inline-block;
+    padding: 10;
+  }
+  .submit{
+  width: 200px;
+  height: 30px;
+  font-size: 20px;
+  
+  }
+  .submitbutton{
+    text-align: center;
+    border: none;
+    margin-bottom: -20
+  }
+  textarea[name="feedback"]{
+    float: left;
+    margin-top: 10;
+  
+  }
+  .feedback{
+    margin-left: -12;
+    margin-top: 10
+  }
+  fieldset{
+  border-color: cyan transparent;
+  margin-top: 10
+  }
+  .fa-regular{
+    width: 100
+  }
+  .checkbox{
+    display: block;
+    padding: 3px;
+  
+  }
+   .age{
+     border-top: none
+   } 
+   .duration{
+     border: none
+   }
+   .progeny{
+     border: none
+  
+   }
+   form{
+     height: 1150;
+     background: rgba(219, 215, 215, 0.9);
+     padding: 2px;
+  }
+  input, select, textarea{
+    border-color: rgba(167, 255, 255, 0.5);
+    
+  }
